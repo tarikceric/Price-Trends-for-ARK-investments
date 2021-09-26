@@ -1,8 +1,6 @@
 import requests
-import csv
 import io
 import pandas as pd
-import numpy as np
 import os
 from datetime import datetime
 
