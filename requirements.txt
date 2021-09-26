@@ -1,0 +1,7 @@
+alpaca_trade_api
+psycopg2
+aiohttp
+requests
+sqlalchemy
+
+
