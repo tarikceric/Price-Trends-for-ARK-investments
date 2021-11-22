@@ -3,7 +3,7 @@ Tracking ARKK and ARKX ETF holdings with analysis in Pandas dataframes and expor
 
 The goal of this project is to track the change of stock prices in relation to whether ARK invest ETFs are increasing or decreasing the number of shares they hold. It creates the framework to allow a user to determine any trends in how stock prices are affected by the actions of ARK investments. 
 
-# The thesis is that ARK Invest is significantly influential and their buys/sells will affect the price of stocks, and tracking these ETF's can showcase what companies they are interested in.
+The thesis is that ARK Invest is significantly influential and their buys/sells will affect the price of stocks, and tracking these ETF's can showcase what companies they are interested in.
 
 This repository has a series of .py files which perform separate tasks:
 1. createTables.sql : create the PostgreSQL tables to store stocks, stock prices, ETF holdings, and price/holding trends.
